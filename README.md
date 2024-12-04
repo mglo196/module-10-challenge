@@ -1,4 +1,4 @@
-# 12-mysql-employee-tracker
+# 10-mysql-employee-tracker
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -63,9 +63,8 @@ So that I can organize and plan my business
 
 ## Repository
 
-  - [Project Repo](https://github.com/EdenKhaos/12-mysql-employee-tracker)
+  - [Project Repo](https://github.com/mglo196/module-10-challenge)
 
 ## Contributions
-1. ![GitHub license](https://img.shields.io/badge/Made%20by-%40EdenKhaos-orange)
-2. No front end files required.
-3. use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
+1. No front end files required.
+2. Use seed.sql to create an existing table to pull sample information from to make it easier to run through the app.
