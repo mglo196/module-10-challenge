@@ -4,24 +4,23 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/EdenKhaos/12-mysql-employee-tracker.git"
+        "type": "git",
+        "url": "git+https://github.com/mglo196/module-10-challenge.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/EdenKhaos/12-mysql-employee-tracker/issues"
+        "url": "https://github.com/mglo-196/module-10-challenge/issues"
     },
-    "homepage": "https://github.com/EdenKhaos/12-mysql-employee-tracker#readme",
+    "homepage": "https://github.com/mglo196/module-10-challenge#readme",
     "dependencies": {
-      "console.table": "^0.10.0",
-      "inquirer": "^7.3.3",
-      "mysql": "^2.18.1"
-    },
-    "devDependencies": {}
-  }
+        "console.table": "^0.10.0",
+        "inquirer": "^7.3.3",
+        "mysql": "^2.18.1"
+    }
+}
