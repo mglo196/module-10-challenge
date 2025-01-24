@@ -1,21 +1,21 @@
 //dependencies required
-const mysql = require("mysql");
+const mysql = require("mysql2");
 const inquirer = require("inquirer");
 require("console.table");
 //const sql = require("./sql");
 
 //mysql connection
 const connection = mysql.createConnection({
-    host: '127.0.0.1',
+    host: 'localhost',
 
     // Your port; if not 3306
-    port: 5433,
+    port: 3306,
 
     // Your username
-    user: 'postgres',
+    user: 'root',
 
     // Your password
-    password: 'PlacePassWordHere',
+    password: 'yourpassword',
     database: 'employeesDB'
 });
 
